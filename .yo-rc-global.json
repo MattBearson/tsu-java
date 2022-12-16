@@ -1,7 +1,7 @@
 {
   "generator-jhipster:7.9.2": {
     "promptValues": {
-      "packageName": "com.tsu.myapp",
+      "packageName": "com.tsu.demo",
       "nativeLanguage": "ru"
     }
   }
